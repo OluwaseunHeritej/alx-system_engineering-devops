@@ -1,5 +1,6 @@
+#!/bin/bash
 Hello World
 Confused Smiley
 Hellofile
-Twofiles
-
+Twof
+iles
